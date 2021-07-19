@@ -1,0 +1,27 @@
+body{
+	background-image:url('../images/back.jpg')	;
+
+}
+.ee {
+	display: block;
+	width: 50%;
+	padding: 5px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+
+button {
+	width: 5%;
+	padding: 5px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+form{
+	color:white;
+}
+h1{
+	color:white;
+}

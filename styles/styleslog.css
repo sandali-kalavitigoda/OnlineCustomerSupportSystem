@@ -1,0 +1,26 @@
+.login{
+	width:350px;
+	margin:100px auto;
+	color:white;
+}
+input{
+	display:block;
+	width:100%;
+	padding:5px;
+	box-sizing:border-box;
+	font-size:14px;
+}
+button{
+	width:100%;
+	padding:5px;
+	box-sizing:border-box;
+}
+p.error{
+	background:red;
+	color:white;
+	
+}
+body{
+	background-image:url('../images/back.jpg')	;
+
+}

@@ -1,0 +1,9 @@
+/* Active/current link */
+.nav a.active {
+  background-color: #454545;
+  color: white;
+}
+body{
+	background-image:url('../images/back.jpg')	;
+
+}

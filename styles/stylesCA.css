@@ -1,0 +1,212 @@
+body{
+	background-image:url('../images/back.jpg')	;
+
+}
+.nav a.active
+{
+	background-color:#454545;
+	color:white;
+}
+h1
+{
+	font-size:30px;
+	color:#ccc;
+	font-family:Monospace;
+	position: absolute;
+	left: 5%;
+	top:30%;
+}
+.options
+{
+	font-size:30px;
+	color:#ccc;
+	font-family:Monospace;
+    position: absolute;
+    left: 65%;
+    top: 20%;
+}
+.our
+{
+	font-size:20px;
+	color:white;
+	font-family:Monospace;
+	position: absolute;
+	left: 5%;
+	top:25%;
+}
+.submit
+{
+	font-size:20px;
+	color:white;
+	font-family:Monospace;
+	position: absolute;
+	left: 5%;
+	top:40%;
+}
+
+.warranty
+{
+	font-size:20px;
+	color:white;
+	font-family:Monospace;
+	position: absolute;
+	left: 65%;
+	top:30%;
+}
+.warranty input[type=text] {
+  padding: 1px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 150px;
+  font-family:Monospace;
+}
+.warranty input[type=submit] {
+  padding: 2px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 100px; 
+  font-family:Monospace;
+}
+
+.parts
+{
+	font-size:20px;
+	color:white;
+	font-family:Monospace;
+	position: absolute;
+	left: 65%;
+	top:48%;
+}
+.parts input[type=text] {
+  padding: 1px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 150px; 
+  font-family:Monospace;
+}
+.parts input[type=submit] {
+  padding: 2px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 100px; 
+  font-family:Monospace;
+}
+.repair
+{
+	font-size:20px;
+	color:white;
+	font-family:Monospace;
+	position: absolute;
+	left: 65%;
+	top:63%;
+}
+.repair input[type=text] {
+  padding: 1px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 150px; 
+  font-family:Monospace;
+}
+.repair input[type=submit] {
+  padding: 2px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 100px; 
+  font-family:Monospace;
+}
+.center
+{
+	font-size:20px;
+	color:white;
+	font-family:Monospace;
+	position: absolute;
+	left: 65%;
+	top:78%;
+}
+.center input[type=text] {
+  padding: 1px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 150px; 
+  font-family:Monospace;
+}
+.center input[type=submit] {
+  padding: 2px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 100px; 
+  font-family:Monospace;
+}
+.sign button
+{
+	position: absolute;
+	left: 42%;
+	top:24%;
+	padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    color:#454545;
+    font-family:Monospace;
+}
+.sign button:hover {
+  background: #ccc;
+  color:black;
+}
+.virtual
+{
+	font-size:20px;
+	color:white;
+	font-family:Monospace;
+	position: absolute;
+	left: 11%;
+	top:74%;
+}
+.assist
+{
+	font-size:20px;
+	color:white;
+	font-family:Monospace;
+	position: absolute;
+	left: 5%;
+	top:70%;	
+}
+.assi button
+{
+	position: absolute;
+	left: 32%;
+	top:73%;
+	padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    color:#454545;
+    font-family:Monospace;
+}
+.assi button:hover {
+  background: #ccc;
+  color:black;
+}
+.submit input[type=submit] {
+  padding: 2px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  width: 100px; 
+  font-family:Monospace;
+}
+

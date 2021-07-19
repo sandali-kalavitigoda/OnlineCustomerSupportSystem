@@ -1,0 +1,14 @@
+header .loggedin{
+	float:right;
+}
+header{
+	background:black;
+	overflow:auto;
+	 font-family:Monospace;
+	 font-size:17px;
+	 color:white;
+}
+body{
+	background-image:url('../images/back.jpg')	;
+
+}
